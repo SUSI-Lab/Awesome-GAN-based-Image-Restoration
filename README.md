@@ -1,4 +1,4 @@
-# Awesome-GAN-based-Image-Restoration
+# Awesome GAN-based Image Restoration
 Awesome GAN-based Image Restoration
 
 ## 2008
