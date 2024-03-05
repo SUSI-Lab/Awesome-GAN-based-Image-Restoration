@@ -1,7 +1,6 @@
 # Awesome-GAN-based-Image-Restoration
 Awesome GAN-based Image Restoration
 
-##test
 ## 2008
 
 (**CVPR 08**) Image Super-Resolution using Gradient Profile Prior  [[paper](https://ieeexplore.ieee.org/document/4587659)][[code](https://github.com/changruowang/SR_GPP)]  
