@@ -116,8 +116,9 @@ Awesome GAN-based Image Restoration
 (**CVPRW 21**) DW-GAN: A Discrete Wavelet Transform GAN for NonHomogeneous Dehazing [[paper](https://arxiv.org/pdf/2104.08911.pdf)][[code](https://github.com/liuh127/NTIRE-2021-Dehazing-DWGAN)]    
 (**TCSVT 21**) TMS-GAN: A Twofold Multi-Scale Generative Adversarial Network for Single Image Dehazing [[paper](https://ieeexplore.ieee.org/document/9489298)]  
 ### Desnowing
-(**ACCESS 21**) Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network [[paper](https://sci-hub.se/10.1109/access.2021.3051359)]  
-(**IET Computer Vision 21**) Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12038)]  
+(**ICCV 21**) ALLSnowRemoved: Single Image Desnowing Algorithm Using Hierarchical Dual-tree Complex Wavelet Representation and Contradict Channel Loss [[paper]()][[code](https://github.com/weitingchen83/ICCV2021-Single-Image-Desnowing-HDCWNet)]   
+(**ACCESS 21**) Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network [[paper](https://sci-hub.se/10.1109/access.2021.3051359)]    
+(**IET Computer Vision 21**) Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12038)]    
 
 ## 2022
 ### Dehazing
@@ -125,7 +126,9 @@ Awesome GAN-based Image Restoration
 (**CVPR 22**) Self-Augmented Unpaired Image Dehazing via Density and Depth Decomposition [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Self-Augmented_Unpaired_Image_Dehazing_via_Density_and_Depth_Decomposition_CVPR_2022_paper.pdf)][[code](https://github.com/YaN9-Y/D4)]  
 (**JIVCIR 22**) DCA-CycleGAN: Unsupervised single image dehazing using Dark Channel Attention optimized CycleGAN [[paper](https://dlnext.acm.org/doi/10.1016/j.jvcir.2021.103431)]    
 ### Desnowing
-(**Social Science Research 22**) Sequential Dual Generative Adversarial Network for Snow and Haze Elimination [[paper](https://www.semanticscholar.org/paper/Sequential-Dual-Generative-Adversarial-Network-for-Bao-Qiang/14857e5c3dae5052de2101b088cd1d440e8a1dab)]    
+(**Social Science Research 22**) Sequential Dual Generative Adversarial Network for Snow and Haze Elimination [[paper](https://www.semanticscholar.org/paper/Sequential-Dual-Generative-Adversarial-Network-for-Bao-Qiang/14857e5c3dae5052de2101b088cd1d440e8a1dab)]    [
+### Deraining
+(**CVPR 22**)Unpaired Deep Image Deraining Using Dual Contrastive Learning[paper](https://arxiv.org/pdf/2109.02973v4.pdf)][[code](https://github.com/cschenxiang/DCD-GAN)]
 
 ## 2023
 ### Super-Resolution
